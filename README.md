@@ -5,8 +5,9 @@
 
 ---
 
-<!-- EFEK ANIMASI MENGETIK (Pasti Muncul) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+Welcome+to+my+space.;Web+Developer+Enthusiast;Crafting+code+like+ink+on+paper..." alt="Typing Effect" />
+<p align="center">
+  <i>"Crafting code like ink on paper..."</i>
+</p>
 
 <p align="center">
   A passionate developer exploring the digital canvas 🖌️. Based in Indonesia.
@@ -38,12 +39,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Profile Summary
 
-<!-- STATS STABIL -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a-ysfnptr&show_icons=true&theme=contrast" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-ysfnptr&layout=compact&theme=contrast" alt="Top Languages" width="48%" />
-</p>
+| Feature | Info |
+| :--- | :--- |
+| 🚀 **Role** | Web Developer Enthusiast |
+| 💻 **Main Tech** | HTML, CSS, JavaScript, PHP |
+| 🔧 **Tools** | Git, VS Code |
+| 📈 **Current Focus** | Building interactive web applications |
 
 </div>

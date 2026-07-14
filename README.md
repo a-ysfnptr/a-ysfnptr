@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- HEADER BANNER JOJO -->
+<!-- HEADER BANNER JOJO (Giorno & Stand dengan Aksen Emas) -->
 <img src="https://i.pinimg.com/originals/fb/28/63/fb2863985c6aee47fe7b3981811a45d2.jpg" width="100%" style="border-radius: 8px; max-height: 250px; object-fit: cover;" alt="JoJo Header" />
 
 <br/><br/>
@@ -61,8 +61,8 @@
 
 <div align="center">
 
-<!-- FOOTER BANNER JOJO -->
-<img src="https://i.pinimg.com/originals/3d/a7/5f/3da75f48a8cd600c7b2e5ba308a65906.jpg" width="100%" style="border-radius: 8px; max-height: 250px; object-fit: cover;" alt="JoJo Footer" />
+<!-- FOOTER BANNER JOJO PILIHAN BARU (Seni Berwarna Gaya Manga) -->
+<img src="https://i.pinimg.com/originals/2c/c5/a5/2cc5a56f6e1f69b9209575eaf2997c9f.jpg" width="100%" style="border-radius: 8px; max-height: 250px; object-fit: cover;" alt="JoJo Footer Color" />
 
 <br/><br/>
 

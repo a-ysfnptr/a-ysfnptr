@@ -1,80 +1,72 @@
-<div align="center">
+# 🌌 Crafting Digital Dimensions | Azril Yasfin
 
-<!-- ANIMASI CYBERPUNK LOOPING YANG RINGAN DAN PASTI MUNCUL -->
-<img src="https://media.giphy.com/media/d31vTp5oQtQLC69q/giphy.gif" width="100%" style="border-radius: 8px; max-height: 200px; object-fit: cover;" alt="Cyber Banner" />
-
-<br/><br/>
-
-# 💻 a.yasfin
-### ─── Web Developer Enthusiast ───
-
-*“Crafting clean web experiences with modern architecture.”*
-
-<br/>
-
-<!-- TOMBOL SOSMED NEON GLOW STABIL -->
 <p align="center">
-  <a href="https://instagram.com/azrlysfn" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-00f2fe?style=for-the-badge&logo=Instagram&logoColor=000" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:yasfin.azril@gmail.com">
-    <img src="https://img.shields.io/badge/Email-4facfe?style=for-the-badge&logo=Gmail&logoColor=000" alt="Email" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);%F0%9F%9A%80;Building+Scalable+Web+Experiences;Transforming+Pixels+into+Performance" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=azrilyasfin&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+</p>
+
+---
+
+### 🔮 The Blueprint
+
+> *"Code is not just instructions for machines; it is the architecture of modern human experiences."*
+
+I am a **Web Developer** driven by the pursuit of building high-performance, visually stunning, and highly intuitive digital products. Bridging the gap between robust back-end logic and pixel-perfect front-end design, I focus on creating seamless user journeys that leave a lasting impression.
+
+* 🛠️ **Current Focus:** Crafting modular web architectures & optimizing rendering pathways.
+* 📚 **Currently Exploring:** Deepening expertise in cloud architectures and advanced performance patterns.
+* 🎯 **Vision:** Fostering cleaner web ecosystems by advocating for accessible, fast, and secure code.
+
+---
+
+### 🚀 Stack & Arsenal
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,django,tailwind,bootstrap,postgres,mongodb,git,docker,vercel" alt="My Skills" />
   </a>
 </p>
 
-</div>
+---
+
+### 📊 Dashboard & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azrilyasfin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Azril's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrilyasfin&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
 
 ---
 
-<br/>
+### 🏆 Featured Masterpieces
 
-<!-- LAYOUT MODERN BORDERLESS -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <!-- KOLOM KIRI: TENTANG SAYA -->
-    <td width="55%" valign="top" style="border: none; padding-right: 30px;">
-      <h3 style="color: #00f2fe;">⚡ Terminal.bio</h3>
-      <p align="justify" style="color: #c9d1d9; line-height: 1.6;">
-        I analyze, design, and code. Focusing on creating responsive layouts, dynamic backend integrations, and interactive client-side interfaces. Believe in clean code and pixel-perfect implementation.
-      </p>
-      <br/>
-      <h4 style="color: #4facfe;">🚀 Current Mission</h4>
-      <code>~$ learning_status = "Mastering Fullstack Engineering"</code>
-    </td>
-    <!-- KOLOM KANAN: CORE TECH -->
-    <td width="45%" valign="top" style="border: none; padding-left: 10px;">
-      <h3 style="color: #00f2fe;">🛠️ Core Stack</h3>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/><br/>
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **⚡ Project Nebula** | A high-performance real-time analytics dashboard with sub-second latency visualization. | `Next.js` `TypeScript` `TailwindCSS` `Node.js` | [📂 Repository](https://github.com/azrilyasfin) |
+| **🛡️ Sentinels** | Decoupled microservices architecture for secure API routing and authentication. | `React` `Express.js` `MongoDB` `Docker` | [📂 Repository](https://github.com/azrilyasfin) |
+| **🧬 Synapse** | An AI-assisted developer portfolio generator leveraging modern edge functions. | `Python` `Django` `TailwindCSS` `Vercel` | [📂 Repository](https://github.com/azrilyasfin) |
 
 ---
 
-<div align="center">
+### 🤝 Let's Bridge the Gap
 
-### 📊 Project Canvas Overview
+Whether you're looking to build a groundbreaking platform, collaborate on an open-source initiative, or simply talk tech over a virtual cup of coffee—let’s connect and create something remarkable.
 
-| Skill Set | Proficiency | Focus Area |
-| :--- | :---: | :--- |
-| **Frontend Dev** | Advanced | UI Transitions & Fluid Layouts |
-| **Backend Logic** | Intermediate | Automation Scripts & Database |
-| **Workflow** | Active | Git Repositories & Collaboration |
+<p align="center">
+  <a href="https://linkedin.com/in/azrilyasfin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:azrilyasfin@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://azrilyasfin.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-<br/>
-
-</div>
+<p align="center">
+  <sub>Built with 💻, ☕, and pure curiosity by <b>Azril Yasfin</b>.</sub>
+</p>

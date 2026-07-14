@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>a.yasfin | Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Plus+Jakarta+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #f7f7f7;
+            --text-color: #111111;
+            --accent-color: #8c1d1d;
+            --ink-black: #080808;
+            --font-serif: 'Cinzel', serif;
+            --font-sans: 'Plus Jakarta Sans', sans-serif;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: var(--font-sans);
+            overflow-x: hidden;
+            min-height: 100vh;
+            position: relative;
+        }
+        .paper-overlay {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            pointer-events: none; z-index: 999; opacity: 0.04;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+        }
+        #ink-canvas {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            z-index: 1; pointer-events: none;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 60px 20px;
+            position: relative;
+            z-index: 2;
+        }
+        .border-line { position: fixed; background-color: var(--ink-black); z-index: 100; }
+        .border-top { top: 15px; left: 15px; right: 15px; height: 1px; }
+        .border-bottom { bottom: 15px; left: 15px; right: 15px; height: 1px; }
+        .border-left { top: 15px; bottom: 15px; left: 15px; width: 1px; }
+        .border-right { top: 15px; bottom: 15px; right: 15px; width: 1px; }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 80px;
+            border-bottom: 1px solid var(--ink-black);
+            padding-bottom: 20px;
+        }
+        .logo {
+            font-family: var(--font-serif);
+            font-size: 1.8rem;
+            font-weight: 700;
+            letter-spacing: 2px;
+            color: var(--ink-black);
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+        }
+        .stamp {
+            display: inline-block;
+            border: 2px solid var(--accent-color);
+            color: var(--accent-color);
+            font-family: var(--font-serif);
+            font-weight: bold;
+            font-size: 0.9rem;
+            padding: 3px 6px;
+            margin-left: 10px;
+            transform: rotate(-5deg);
+            border-radius: 3px;
+        }
+        .nav-links a {
+            color: var(--text-color);
+            text-decoration: none;
+            margin-left: 20px;
+            font-weight: 600;
+            font-size: 0.85rem;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            border: 1px solid transparent;
+            padding: 5px 10px;
+            transition: all 0.3s;
+        }
+        .nav-links a:hover {
+            border-color: var(--ink-black);
+        }
+        .hero {
+            min-height: 50vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: flex-start;
+            margin-bottom: 60px;
+        }
+        .hero h1 {
+            font-family: var(--font-serif);
+            font-size: 4rem;
+            line-height: 1.1;
+            margin-bottom: 20px;
+        }
+        .subtitle {
+            font-size: 1.2rem;
+            color: #444;
+            max-width: 600px;
+            margin-bottom: 30px;
+            line-height: 1.6;
+        }
+        .cta-btn {
+            background-color: var(--ink-black);
+            color: var(--bg-color);
+            border: 1px solid var(--ink-black);
+            padding: 12px 30px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .cta-btn:hover {
+            background-color: transparent;
+            color: var(--ink-black);
+        }
+        .showcase {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 60px;
+            padding-top: 60px;
+            border-top: 1px solid rgba(0,0,0,0.1);
+        }
+        .showcase-bio h2 {
+            font-family: var(--font-serif);
+            font-size: 2rem;
+            margin-bottom: 20px;
+        }
+        .showcase-bio p {
+            line-height: 1.8;
+            color: #333;
+            margin-bottom: 15px;
+        }
+        .skills-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        .skill-card {
+            border: 1px solid rgba(0,0,0,0.1);
+            padding: 20px;
+            background-color: rgba(255,255,255,0.6);
+            transition: all 0.3s;
+        }
+        .skill-card:hover {
+            border-color: var(--ink-black);
+            transform: translateY(-3px);
+        }
+        .skill-card h4 {
+            font-family: var(--font-serif);
+            margin-bottom: 8px;
+        }
+        .skill-card p {
+            font-size: 0.8rem;
+            color: #666;
+        }
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 2.8rem; }
+            .showcase { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="paper-overlay"></div>
+    <canvas id="ink-canvas"></canvas>
+    <div class="border-line border-top"></div>
+    <div class="border-line border-bottom"></div>
+    <div class="border-line border-left"></div>
+    <div class="border-line border-right"></div>
+    <div class="container">
+        <header>
+            <a href="#" class="logo">a.yasfin<span class="stamp">雅芬</span></a>
+            <nav class="nav-links">
+                <a href="https://instagram.com/azrlysfn" target="_blank">Instagram</a>
+            </nav>
+        </header>
+        <section class="hero">
+            <h1>Web Developer<br/><span style="text-decoration: underline; text-decoration-color: var(--accent-color);">Enthusiast</span></h1>
+            <p class="subtitle">Blending code structures with traditional ink flow aesthetics.</p>
+            <button class="cta-btn" onclick="triggerSplatter()">Splash Ink 🖌️</button>
+        </section>
+        <section class="showcase">
+            <div class="showcase-bio">
+                <h2>The Flow of Logic</h2>
+                <p>Hello, I'm <strong>a.yasfin</strong>. Web Developer enthusiast exploring the canvas of the internet.</p>
+                <p>I build dynamic, clean, and interactive websites. Tap anywhere on the page to leave your ink mark.</p>
+            </div>
+            <div class="showcase-skills">
+                <div class="skills-grid">
+                    <div class="skill-card">
+                        <h4>Frontend</h4>
+                        <p>HTML, CSS, JavaScript</p>
+                    </div>
+                    <div class="skill-card">
+                        <h4>Backend</h4>
+                        <p>PHP, Python</p>
+                    </div>
+                    <div class="skill-card">
+                        <h4>Tools</h4>
+                        <p>Git, Version Control</p>
+                    </div>
+                    <div class="skill-card">
+                        <h4>Focus</h4>
+                        <p>Clean & Minimal Design</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <script>
+        const canvas = document.getElementById('ink-canvas');
+        const ctx = canvas.getContext('2d');
+        let splatters = [];
+        function resize() {
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+        }
+        window.addEventListener('resize', resize);
+        resize();
+        class Ink {
+            constructor(x, y, r, color) {
+                this.x = x; this.y = y; this.maxR = r; this.r = 1;
+                this.color = color; this.opacity = 1; this.finished = false;
+                this.drops = [];
+                for(let i=0; i<6; i++) {
+                    let angle = Math.random()*Math.PI*2;
+                    let dist = Math.random()*r*1.4;
+                    this.drops.push({
+                        cx: x, cy: y,
+                        tx: x + Math.cos(angle)*dist,
+                        ty: y + Math.sin(angle)*dist,
+                        cr: Math.random()*r*0.2 + 1,
+                        p: 0
+                    });
+                }
+            }
+            update() {
+                if (this.r < this.maxR) this.r += 2;
+                else {
+                    this.opacity -= 0.01;
+                    if(this.opacity <= 0) this.finished = true;
+                }
+                this.drops.forEach(d => {
+                    if (d.p < 1) d.p += 0.05;
+                });
+            }
+            draw() {
+                ctx.save();
+                ctx.globalAlpha = this.opacity;
+                ctx.fillStyle = this.color;
+                ctx.beginPath();
+                for (let i=0; i<=8; i++) {
+                    let angle = (i/8)*Math.PI*2;
+                    let noise = Math.sin(angle*4)*this.r*0.1;
+                    let currR = this.r + noise;
+                    let px = this.x + Math.cos(angle)*currR;
+                    let py = this.y + Math.sin(angle)*currR;
+                    if(i===0) ctx.moveTo(px, py); else ctx.lineTo(px, py);
+                }
+                ctx.fill();
+                this.drops.forEach(d => {
+                    ctx.beginPath();
+                    let dx = d.cx + (d.tx - d.cx)*d.p;
+                    let dy = d.cy + (d.ty - d.cy)*d.p;
+                    ctx.arc(dx, dy, d.cr, 0, Math.PI*2);
+                    ctx.fill();
+                });
+                ctx.restore();
+            }
+        }
+        function triggerSplatter() {
+            let x = Math.random()*window.innerWidth;
+            let y = Math.random()*window.innerHeight;
+            let isRed = Math.random() > 0.8;
+            splatters.push(new Ink(x, y, Math.random()*30+15, isRed ? '#8c1d1d' : '#080808'));
+        }
+        window.addEventListener('click', (e) => {
+            if(e.target.tagName !== 'BUTTON' && e.target.tagName !== 'A') {
+                let isRed = Math.random() > 0.85;
+                splatters.push(new Ink(e.clientX, e.clientY, Math.random()*25+10, isRed ? '#8c1d1d' : '#080808'));
+            }
+        });
+        function loop() {
+            ctx.clearRect(0,0,canvas.width,canvas.height);
+            splatters = splatters.filter(s => !s.finished);
+            splatters.forEach(s => { s.update(); s.draw(); });
+            requestAnimationFrame(loop);
+        }
+        loop();
+    </script>
+</body>
+</html>

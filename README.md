@@ -37,8 +37,27 @@ I am a **Web Developer** driven by the pursuit of building high-performance, vis
 ### 📊 Dashboard & Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-ysfnptr&theme=tokyonight" width="100%" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Main%20Role-Web%20Developer-7aa2f7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Role" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Total%20Contributions-30%2B-bb9af7?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
 </p>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td width="33%" align="center" style="border: none; padding: 10px;">
+      <b>🔥 Frontend Mastery</b><br/>
+      <code>█████████░ [ 90% ]</code>
+    </td>
+    <td width="33%" align="center" style="border: none; padding: 10px;">
+      <b>🐘 Backend Logic</b><br/>
+      <code>██████░░░░ [ 60% ]</code>
+    </td>
+    <td width="33%" align="center" style="border: none; padding: 10px;">
+      <b>🔧 Version Control</b><br/>
+      <code>████████░░ [ 80% ]</code>
+    </td>
+  </tr>
+</table>
 
 ---
 

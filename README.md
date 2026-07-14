@@ -1,6 +1,11 @@
 <div align="center">
 
-<!-- HEADER LOGO JOJO DENGAN TEKS SVG YANG DIJAMIN MUNCUL -->
+<!-- HEADER BANNER JOJO -->
+<img src="https://i.pinimg.com/originals/fb/28/63/fb2863985c6aee47fe7b3981811a45d2.jpg" width="100%" style="border-radius: 8px; max-height: 250px; object-fit: cover;" alt="JoJo Header" />
+
+<br/><br/>
+
+<!-- LOGO TEKS SVG KUNING EMAS -->
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=40&duration=1000&pause=5000&color=FFBD00&background=1A003300&center=true&vCenter=true&width=600&height=100&lines=a.yasfin" alt="a.yasfin" />
 
 <h2>ゴゴゴゴ . . . STAND PROFILE . . . ゴゴゴゴ</h2>
@@ -54,10 +59,16 @@
 
 ---
 
-<div align="right">
+<div align="center">
 
-<!-- TO BE CONTINUED VERSI TEKS JAUH LEBIH RAPI & DIJAMIN SELALU MUNCUL -->
+<!-- FOOTER BANNER JOJO -->
+<img src="https://i.pinimg.com/originals/3d/a7/5f/3da75f48a8cd600c7b2e5ba308a65906.jpg" width="100%" style="border-radius: 8px; max-height: 250px; object-fit: cover;" alt="JoJo Footer" />
+
+<br/><br/>
+
+<div align="right">
 <h3><b>To Be Continued... 🗺️ </b></h3>
 <h4><b>━━━━━━━━━━━━━━━━━━━━►</b></h4>
+</div>
 
 </div>

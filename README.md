@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);%F0%9F%9A%80;Building+Scalable+Web+Experiences;Transforming+Pixels+into+Performance" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=a.ysfnptr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
 ---
 
 ### 🔮 The Blueprint
@@ -31,14 +37,8 @@ I am a **Web Developer** driven by the pursuit of building high-performance, vis
 ### 📊 Dashboard & Metrics
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=a.ysfnptr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a.ysfnptr&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 ---
@@ -47,9 +47,9 @@ I am a **Web Developer** driven by the pursuit of building high-performance, vis
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **⚡ Project Nebula** | A high-performance real-time analytics dashboard with sub-second latency visualization. | `Next.js` `TypeScript` `TailwindCSS` `Node.js` | [📂 Repository](https://github.com/YOUR_GITHUB_USERNAME) |
-| **🛡️ Sentinels** | Decoupled microservices architecture for secure API routing and authentication. | `React` `Express.js` `MongoDB` `Docker` | [📂 Repository](https://github.com/YOUR_GITHUB_USERNAME) |
-| **🧬 Synapse** | An AI-assisted developer portfolio generator leveraging modern edge functions. | `Python` `Django` `TailwindCSS` `Vercel` | [📂 Repository](https://github.com/YOUR_GITHUB_USERNAME) |
+| **⚡ Project Nebula** | A high-performance real-time analytics dashboard with sub-second latency visualization. | `Next.js` `TypeScript` `TailwindCSS` `Node.js` | [📂 Repository](https://github.com/a.ysfnptr) |
+| **🛡️ Sentinels** | Decoupled microservices architecture for secure API routing and authentication. | `React` `Express.js` `MongoDB` `Docker` | [📂 Repository](https://github.com/a.ysfnptr) |
+| **🧬 Synapse** | An AI-assisted developer portfolio generator leveraging modern edge functions. | `Python` `Django` `TailwindCSS` `Vercel` | [📂 Repository](https://github.com/a.ysfnptr) |
 
 ---
 
@@ -58,14 +58,11 @@ I am a **Web Developer** driven by the pursuit of building high-performance, vis
 Whether you're looking to build a groundbreaking platform, collaborate on an open-source initiative, or simply talk tech over a virtual cup of coffee—let’s connect and create something remarkable.
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/a-ysfnptr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:a.ysfnptr@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://yourportfolio.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 

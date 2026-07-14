@@ -1,7 +1,7 @@
 # 🌌 Crafting Digital Dimensions | Azril Yasfin
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);%F0%9F%9A%80;Building+Scalable+Web+Experiences;Transforming+Pixels+into+Performance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Experiences;Transforming+Pixels+into+Performance" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -37,8 +37,8 @@ I am a **Web Developer** driven by the pursuit of building high-performance, vis
 ### 📊 Dashboard & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=a-ysfnptr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=a-ysfnptr&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=a-ysfnptr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=a-ysfnptr&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 ---

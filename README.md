@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<!-- FOOTER BANNER STARDUST CRUSADERS DI GURUN -->
+<!-- FOOTER BANNER STARDUST CRUSADERS DI GURUN (Koreksi Link) -->
 <img src="https://i.pinimg.com/originals/32/b9/3c/32b93cbadd7906beb1277b8aaa5d53bd.jpg" width="100%" style="border-radius: 8px; max-height: 250px; object-fit: cover;" alt="Stardust Crusaders Desert" />
 
 <br/><br/>

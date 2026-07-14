@@ -26,21 +26,24 @@
 
 ---
 
-### 🛡️ Stand Attributes & Ability
+<br/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>👤 Stand Profile</h4>
+<!-- LAYOUT DUA KOLOM BERGAYA BORDERLESS (BEBAS KOTAK ABU-ABU) -->
+<div align="left">
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none; padding-right: 20px;">
+      <h3 style="color: #FFBD00;">👤 Stand Profile</h3>
       <ul>
         <li><strong>Stand Master:</strong> a-ysfnptr</li>
-        <li><strong>Stand Name:</strong> <span style="color: #FFBD00;"><b>GOLDEN WEB</b></span></li>
+        <li><strong>Stand Name:</strong> <b>GOLDEN WEB</b></li>
         <li><strong>Stand Ability:</strong> Translating lines of code into interactive structures.</li>
         <li><strong>Hobby:</strong> Crafting web projects & playing with scripts.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h4>⚡ Stand Stats (Skills)</h4>
+    <td width="50%" valign="top" style="border: none; padding-left: 20px;">
+      <h3 style="color: #FFBD00;">⚡ Stand Stats (Skills)</h3>
       <p>
         <img src="https://img.shields.io/badge/HTML5-Power_A-390099?style=for-the-badge&logo=html5&logoColor=white&labelColor=FFBD00" />
         <img src="https://img.shields.io/badge/CSS3-Speed_A-390099?style=for-the-badge&logo=css3&logoColor=white&labelColor=FFBD00" />
@@ -56,6 +59,10 @@
     </td>
   </tr>
 </table>
+
+</div>
+
+<br/><br/>
 
 ---
 

@@ -1,15 +1,16 @@
 <div align="center">
 
-<!-- JOJO HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/type=rect&color=390099&height=180&section=header&text=a.yasfin&fontSize=60&fontColor=FFBD00&desc=STAND%20USER%20%E2%80%A2%20WEB%20DEVELOPER&descAlignY=65&descAlign=50" width="100%" alt="JoJo Header" />
+# 🔮 STAND MASTER: a.yasfin
+### ─── ⚡ STAND: GOLDEN WEB ⚡ ───
+**ゴ ゴ ゴ ゴ ゴ ゴ ゴ ゴ ゴ ゴ**
 
-<br/>
+---
 
-<!-- MENACING EFFECT & TYPING -->
-<h2>ゴゴゴゴ . . . a.yasfin's Stand Profile . . . ゴゴゴゴ</h2>
+<p align="center">
+  <b>"Yare Yare Daze... Welcome to my bizarre profile!"</b>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFBD00&center=true&vCenter=true&width=600&height=40&lines=Yare+Yare+Daze...;Welcome+to+my+bizarre+profile!;Stand+Master:+a-ysfnptr" alt="Typing Effect" />
-
+<!-- TOMBOL SOSMED TEMA JOJO (KUNING & UNGU) -->
 <p align="center">
   <a href="https://instagram.com/azrlysfn" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FFBD00?style=for-the-badge&logo=Instagram&logoColor=000&labelColor=390099" alt="Instagram" />
@@ -23,7 +24,7 @@
 
 ---
 
-### 🛡️ Stand Attributes & Ability
+### 🔱 Stand Attributes & Abilities
 
 <table>
   <tr>
@@ -32,42 +33,38 @@
       <ul>
         <li><strong>Stand Master:</strong> a-ysfnptr</li>
         <li><strong>Stand Name:</strong> <span style="color: #FFBD00;"><b>GOLDEN WEB</b></span></li>
-        <li><strong>Stand Ability:</strong> Translating lines of code into interactive structures.</li>
-        <li><strong>Hobby:</strong> Crafting web projects & playing with scripts.</li>
+        <li><strong>Ability:</strong> Translating lines of code into interactive web canvases.</li>
+        <li><strong>Current Focus:</strong> Exploring frontend flows and backend systems.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>⚡ Stand Stats (Skills)</h4>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-Power_A-390099?style=flat-square&logo=html5&logoColor=white&labelColor=FFBD00" />
-        <img src="https://img.shields.io/badge/CSS3-Speed_A-390099?style=flat-square&logo=css3&logoColor=white&labelColor=FFBD00" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-Precision_A-390099?style=flat-square&logo=javascript&logoColor=white&labelColor=FFBD00" />
-        <img src="https://img.shields.io/badge/Python-Range_B-390099?style=flat-square&logo=python&logoColor=white&labelColor=FFBD00" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-Durability_B-390099?style=flat-square&logo=php&logoColor=white&labelColor=FFBD00" />
-        <img src="https://img.shields.io/badge/Git-Potential_A-390099?style=flat-square&logo=git&logoColor=white&labelColor=FFBD00" />
-      </p>
+      <ul>
+        <li>🔥 <b>HTML5</b> <span style="color: #FFBD00;">[ Power: A ]</span></li>
+        <li>💧 <b>CSS3</b> <span style="color: #FFBD00;">[ Speed: A ]</span></li>
+        <li>⚡ <b>JavaScript</b> <span style="color: #FFBD00;">[ Precision: A ]</span></li>
+        <li>🐍 <b>Python</b> <span style="color: #FFBD00;">[ Range: B ]</span></li>
+        <li>🐘 <b>PHP</b> <span style="color: #FFBD00;">[ Durability: B ]</span></li>
+        <li>🔧 <b>Git</b> <span style="color: #FFBD00;">[ Potential: A ]</span></li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-<div align="center">
+### 📊 Stand Evaluation Summary
 
-### 📊 Stand Power Output (GitHub Stats)
-*How strong is the Stand user?*
+| Attribute | Level | Description |
+| :--- | :---: | :--- |
+| **Logic & Structure** | **A** | Excellent at organizing code layouts. |
+| **UI Aesthetics** | **B** | Creative and bold color palettes. |
+| **Adaptability** | **A** | Quick learner of new technologies. |
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=a-ysfnptr&show_icons=true&theme=tokyonight&title_color=FFBD00&text_color=ffffff&bg_color=120024" alt="GitHub Stats" width="60%" />
+<div align="center">
 
-<br/><br/>
-
-<!-- TO BE CONTINUED ARROW -->
-<img src="https://i.imgur.com/G4Yx1xM.png" width="200px" alt="To Be Continued" />
+**◄◄◄ To Be Continued...**
 
 </div>

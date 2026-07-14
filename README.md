@@ -1,76 +1,63 @@
 <div align="center">
-# 🌟 THE BIZARRE CANVAS OF a.yasfin
-### ─── 『 STAND MASTER: a-ysfnptr 』 ───
-```text
-  ゴ ゴ ゴ ゴ             ゴ ゴ ゴ ゴ
-    ゴ         YARE YARE        ゴ
-      ゴ       DAZE...        ゴ
-        ゴ                  ゴ
-```
-*“Crafting lines of code with the precision of a Stand user.”*
----
-<!-- TOMBOL SOSIAL MEDIA MINIMALIS ELEGAN -->
-<a href="https://instagram.com/azrlysfn" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-FFBD00?style=for-the-badge&logo=Instagram&logoColor=000&labelColor=1a0033" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:yasfin.azril@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-FFBD00?style=for-the-badge&logo=Gmail&logoColor=000&labelColor=1a0033" />
-</a>
-</div>
-<br/>
-## 🔮 STAND FILE: 『 GOLDEN WEB 』
-<p align="justify">
-A developer who manipulates the digital fabric. Just like a Stand adapts to battle, I adapt to new languages and frameworks to build exceptional web experiences. 
+
+<!-- HEADER LOGO JOJO DENGAN TEKS SVG YANG DIJAMIN MUNCUL -->
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=40&duration=1000&pause=5000&color=FFBD00&background=1A003300&center=true&vCenter=true&width=600&height=100&lines=a.yasfin" alt="a.yasfin" />
+
+<h2>ゴゴゴゴ . . . STAND PROFILE . . . ゴゴゴゴ</h2>
+
+<!-- YARE YARE DAZE ANIMASI KUNING NEON -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FFBD00&center=true&vCenter=true&width=600&height=40&lines=Yare+Yare+Daze...;Welcome+to+my+Bizarre+profile!" alt="Yare Yare Daze" />
+
+<p align="center">
+  <a href="https://instagram.com/azrlysfn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FFBD00?style=for-the-badge&logo=Instagram&logoColor=000&labelColor=390099" alt="Instagram" />
+  </a>
+  <a href="mailto:yasfin.azril@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFBD00?style=for-the-badge&logo=Gmail&logoColor=000&labelColor=390099" alt="Email" />
+  </a>
 </p>
-```
-Stand Ability ─── Translating logical algorithms into dynamic, visual realities.
-Stand Range   ─── From responsive frontend designs to structural backend databases.
-```
-<br/>
-## ⚡ STAND PARAMETERS (SKILLS)
-*The closer to 10, the stronger the attribute.*
+
+</div>
+
+---
+
+### 🛡️ Stand Attributes & Ability
+
 <table>
   <tr>
-    <td width="50%">
-      <b>🔥 FRONTEND POWER (HTML/CSS)</b><br/>
-      <code>██████████ [ 10 / 10 ]</code> A - Level Power
+    <td width="50%" valign="top">
+      <h4>👤 Stand Profile</h4>
+      <ul>
+        <li><strong>Stand Master:</strong> a-ysfnptr</li>
+        <li><strong>Stand Name:</strong> <span style="color: #FFBD00;"><b>GOLDEN WEB</b></span></li>
+        <li><strong>Stand Ability:</strong> Translating lines of code into interactive structures.</li>
+        <li><strong>Hobby:</strong> Crafting web projects & playing with scripts.</li>
+      </ul>
     </td>
-    <td width="50%">
-      <b>⚡ JAVASCRIPT PRECISION</b><br/>
-      <code>████████░░ [ 8 / 10 ]</code> A - Level Precision
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>🐍 PYTHON RANGE</b><br/>
-      <code>██████░░░░ [ 6 / 10 ]</code> B - Level Range
-    </td>
-    <td>
-      <b>🐘 PHP DURABILITY</b><br/>
-      <code>███████░░░ [ 7 / 10 ]</code> B - Level Durability
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>🔧 GIT POTENTIAL</b><br/>
-      <code>█████████░ [ 9 / 10 ]</code> A - Level Potential
-    </td>
-    <td>
-      <b>🎨 CREATIVE DEVELOPMENT</b><br/>
-      <code>█████████░ [ 9 / 10 ]</code> A - Level Speed
+    <td width="50%" valign="top">
+      <h4>⚡ Stand Stats (Skills)</h4>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-Power_A-390099?style=for-the-badge&logo=html5&logoColor=white&labelColor=FFBD00" />
+        <img src="https://img.shields.io/badge/CSS3-Speed_A-390099?style=for-the-badge&logo=css3&logoColor=white&labelColor=FFBD00" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-Precision_A-390099?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFBD00" />
+        <img src="https://img.shields.io/badge/Python-Range_B-390099?style=for-the-badge&logo=python&logoColor=white&labelColor=FFBD00" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-Durability_B-390099?style=for-the-badge&logo=php&logoColor=white&labelColor=FFBD00" />
+        <img src="https://img.shields.io/badge/Git-Potential_A-390099?style=for-the-badge&logo=git&logoColor=white&labelColor=FFBD00" />
+      </p>
     </td>
   </tr>
 </table>
-<br/>
-## 🏆 CURRENT QUEST
-- [x] Unlocked Stand ability: **JavaScript Interactive Canvas**
-- [/] Training Stand parameter: **Fullstack Integration**
-- [ ] Next Quest: **Mastering Advanced Python Systems**
-<br/>
+
+---
+
 <div align="right">
-```text
-To Be Continued... 🗺️
-  ━━━━━━━━━━━━━━━━━━━━►
-```
+
+<!-- TO BE CONTINUED VERSI TEKS JAUH LEBIH RAPI & DIJAMIN SELALU MUNCUL -->
+<h3><b>To Be Continued... 🗺️ </b></h3>
+<h4><b>━━━━━━━━━━━━━━━━━━━━►</b></h4>
+
 </div>

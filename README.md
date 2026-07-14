@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER BANNER JOJO -->
-<img src="https://i.pinimg.com/originals/fb/28/63/fb2863985c6aee47fe7b3981811a45d2.jpg" width="100%" style="border-radius: 8px; max-height: 250px; object-fit: cover;" alt="JoJo Header" />
+<!-- HEADER ANIMASI GIF GIORNO BERGERAK -->
+<img src="https://i.pinimg.com/originals/72/99/26/72992632c56acb4000e3d5bac7d41c79.gif" width="100%" style="border-radius: 8px; max-height: 280px; object-fit: cover;" alt="JoJo Header GIF" />
 
 <br/><br/>
 
@@ -61,8 +61,8 @@
 
 <div align="center">
 
-<!-- FOOTER BANNER STARDUST CRUSADERS DI GURUN (Koreksi Link) -->
-<img src="https://i.pinimg.com/originals/32/b9/3c/32b93cbadd7906beb1277b8aaa5d53bd.jpg" width="100%" style="border-radius: 8px; max-height: 250px; object-fit: cover;" alt="Stardust Crusaders Desert" />
+<!-- FOOTER ANIMASI GIF STARDUST Crusaders GURUN BERGERAK -->
+<img src="https://i.pinimg.com/originals/b0/b5/35/b0b53524515dccdaa766eed64b332c8a.gif" width="100%" style="border-radius: 8px; max-height: 250px; object-fit: cover;" alt="Stardust Crusaders Desert GIF" />
 
 <br/><br/>
 

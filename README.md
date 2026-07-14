@@ -1,55 +1,45 @@
 <div align="center">
 
-<!-- HEADER UTAMA DENGAN LUKISAN TINTA JEPANG/CINA -->
-<img src="https://raw.githubusercontent.com/kylelogue/mustache/master/images/ink.gif" width="100%" height="120px" style="object-fit: cover;" alt="Ink Splash Banner" />
-
 # 🖌️ a.yasfin
-### ─── ❖ ── ✦ ── ❖ ───
-**Web Developer Enthusiast**
+### Web Developer Enthusiast
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%" alt="Divider Brush" />
+---
 
-</div>
+<p align="center">
+  <i>"Crafting code like ink on paper..."</i>
+</p>
 
-<br/>
+<!-- TOMBOL UTAMA UNTUK MASUK KE CANVAS INTERAKTIF -->
+<p align="center">
+  <a href="https://a-ysfnptr.github.io" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F%20ENTER%20THE%20INK%20CANVAS-000000?style=for-the-badge&logoColor=white" height="40px" alt="Enter Ink Canvas" />
+  </a>
+</p>
 
-<!-- LAYOUT DUA KOLOM -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏮 About Me</h3>
-      <p align="justify">
-        A passionate developer exploring the digital canvas. Crafting clean web experiences with the flow of ink and structure of code.
-      </p>
-      <br/>
-      <a href="https://instagram.com/azrlysfn" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-      </a>
-      <a href="mailto:yasfin.azril@gmail.com">
-        <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🖌️ Tech Canvas (Skills)</h3>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  A passionate developer exploring the digital canvas. Tap the button above to experience the interactive ink portfolio!
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://instagram.com/azrlysfn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:yasfin.azril@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<div align="center">
+---
 
-<!-- PEMBATAS BAWAH CIPRATAN TINTA -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Footer Brush" />
+### 🎨 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
 </div>

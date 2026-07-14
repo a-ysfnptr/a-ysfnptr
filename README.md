@@ -12,19 +12,19 @@
 
 ---
 
-### 🔮 The Blueprint
+### About Me
 
 > *"Code is not just instructions for machines; it is the architecture of modern human experiences."*
 
 I am a **Web Developer** driven by the pursuit of building high-performance, visually stunning, and highly intuitive digital products. Bridging the gap between robust back-end logic and pixel-perfect front-end design, I focus on creating seamless user journeys that leave a lasting impression.
 
-* 🛠️ **Current Focus:** Crafting modular web architectures & optimizing rendering pathways.
-* 📚 **Currently Exploring:** Deepening expertise in cloud architectures and advanced performance patterns.
-* 🎯 **Vision:** Fostering cleaner web ecosystems by advocating for accessible, fast, and secure code.
+* **Current Focus:** Crafting modular web architectures & optimizing rendering pathways.
+* **Currently Exploring:** Deepening expertise in cloud architectures and advanced performance patterns.
+* **Vision:** Fostering cleaner web ecosystems by advocating for accessible, fast, and secure code.
 
 ---
 
-### 🚀 Stack & Arsenal
+### Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,7 +34,7 @@ I am a **Web Developer** driven by the pursuit of building high-performance, vis
 
 ---
 
-### 📊 Dashboard & Metrics
+### Statistics
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main%20Role-Web%20Developer-7aa2f7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Role" />
@@ -45,15 +45,15 @@ I am a **Web Developer** driven by the pursuit of building high-performance, vis
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
     <td width="33%" align="center" style="border: none; padding: 10px;">
-      <b>🔥 Frontend Mastery</b><br/>
+      <b>Frontend Mastery</b><br/>
       <code>█████████░ [ 90% ]</code>
     </td>
     <td width="33%" align="center" style="border: none; padding: 10px;">
-      <b>🐘 Backend Logic</b><br/>
+      <b>Backend Logic</b><br/>
       <code>██████░░░░ [ 60% ]</code>
     </td>
     <td width="33%" align="center" style="border: none; padding: 10px;">
-      <b>🔧 Version Control</b><br/>
+      <b>Version Control</b><br/>
       <code>████████░░ [ 80% ]</code>
     </td>
   </tr>
@@ -61,18 +61,18 @@ I am a **Web Developer** driven by the pursuit of building high-performance, vis
 
 ---
 
-### 🏆 Featured Masterpieces
+### Projects
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **⚡ projek-m10-wd** | A responsive web project showcasing frontend implementation and page structuring. | `HTML` `CSS` | [📂 Repository](https://github.com/a-ysfnptr/projek-m10-wd) |
-| **🎨 interactive-ink** | Blending sumi-e ink brush flow simulation with modern interactive HTML5 canvas. | `JavaScript` `HTML` `CSS` | [📂 Repository](https://github.com/a-ysfnptr/a-ysfnptr) |
+| **projek-m10-wd** | A responsive web project showcasing frontend implementation and page structuring. | `HTML` `CSS` | [📂 Repository](https://github.com/a-ysfnptr/projek-m10-wd) |
+| **interactive-ink** | Blending sumi-e ink brush flow simulation with modern interactive HTML5 canvas. | `JavaScript` `HTML` `CSS` | [📂 Repository](https://github.com/a-ysfnptr/a-ysfnptr) |
 
 ---
 
-### 🤝 Let's Bridge the Gap
+### Connect with Me
 
-Whether you're looking to build a groundbreaking platform, collaborate on an open-source initiative, or simply talk tech over a virtual cup of coffee—let’s connect and create something remarkable.
+Whether you're looking to build a groundbreaking platform, collaborate on an open-source initiative, or simply talk tech—let’s connect and create something remarkable.
 
 <p align="center">
   <a href="https://instagram.com/azrlysfn" target="_blank">

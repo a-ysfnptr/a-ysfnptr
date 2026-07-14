@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=a.ysfnptr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/a-ysfnptr">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-ysfnptr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@ I am a **Web Developer** driven by the pursuit of building high-performance, vis
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,django,tailwind,bootstrap,postgres,mongodb,git,docker,vercel" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,git,vscode,bootstrap,tailwind,mysql" alt="My Skills" />
   </a>
 </p>
 
@@ -37,8 +37,8 @@ I am a **Web Developer** driven by the pursuit of building high-performance, vis
 ### 📊 Dashboard & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a.ysfnptr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a.ysfnptr&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=a-ysfnptr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-ysfnptr&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 ---
@@ -47,9 +47,8 @@ I am a **Web Developer** driven by the pursuit of building high-performance, vis
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **⚡ Project Nebula** | A high-performance real-time analytics dashboard with sub-second latency visualization. | `Next.js` `TypeScript` `TailwindCSS` `Node.js` | [📂 Repository](https://github.com/a.ysfnptr) |
-| **🛡️ Sentinels** | Decoupled microservices architecture for secure API routing and authentication. | `React` `Express.js` `MongoDB` `Docker` | [📂 Repository](https://github.com/a.ysfnptr) |
-| **🧬 Synapse** | An AI-assisted developer portfolio generator leveraging modern edge functions. | `Python` `Django` `TailwindCSS` `Vercel` | [📂 Repository](https://github.com/a.ysfnptr) |
+| **⚡ projek-m10-wd** | A responsive web project showcasing frontend implementation and page structuring. | `HTML` `CSS` | [📂 Repository](https://github.com/a-ysfnptr/projek-m10-wd) |
+| **🎨 interactive-ink** | Blending sumi-e ink brush flow simulation with modern interactive HTML5 canvas. | `JavaScript` `HTML` `CSS` | [📂 Repository](https://github.com/a-ysfnptr/a-ysfnptr) |
 
 ---
 
@@ -58,10 +57,10 @@ I am a **Web Developer** driven by the pursuit of building high-performance, vis
 Whether you're looking to build a groundbreaking platform, collaborate on an open-source initiative, or simply talk tech over a virtual cup of coffee—let’s connect and create something remarkable.
 
 <p align="center">
-  <a href="https://linkedin.com/in/a-ysfnptr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://instagram.com/azrlysfn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:a.ysfnptr@gmail.com">
+  <a href="mailto:yasfin.azril@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
